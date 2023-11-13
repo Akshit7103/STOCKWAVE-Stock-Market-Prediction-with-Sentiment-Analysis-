@@ -1,0 +1,22 @@
+appdirs==1.4.4
+beautifulsoup4==4.12.2
+certifi==2023.7.22
+charset-normalizer==3.2.0
+frozendict==2.3.8
+html5lib==1.1
+idna==3.4
+lxml==4.9.3
+multitasking==0.0.11
+numpy==1.25.2
+pandas==2.0.3
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+pytz==2023.3
+requests==2.31.0
+six==1.16.0
+soupsieve==2.4.1
+TA-Lib @ file:///C:/Users/saura/OneDrive/Documents/GitHub/prodigal-stock-returns/Code/TA_Lib-0.4.24-cp39-cp39-win_amd64.whl#sha256=d4205d243686ef91fb8167c82c56b6c2ed088b052fb76adf5734f38dccefc22a
+tzdata==2023.3
+urllib3==2.0.4
+webencodings==0.5.1
+yfinance==0.2.26
