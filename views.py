@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 from .models import MyModel
+from.import views
 
 def get_data(request):
     data = MyModel.objects.all().values()  # Retrieve data from the database
