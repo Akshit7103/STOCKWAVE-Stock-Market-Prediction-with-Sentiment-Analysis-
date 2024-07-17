@@ -11,8 +11,7 @@ Web interface for user interaction
 Installation
 Follow these steps to set up the project on your local machine.
 
-bash
-Copy code
+
 # Clone the repository
 git clone https://github.com/Akshit7103/psr-compressed.git
 
@@ -24,16 +23,13 @@ pip install -r requirements.txt
 Usage
 Once the project is set up, you can use the following commands to run different parts of the project.
 
-bash
-Copy code
+
 # Run the web server
 python manage.py runserver
 
 # Run tests
 python tests.py
 Project Structure
-python
-Copy code
 psr-compressed/
 │
 ├── admin.py            # Django admin configurations
