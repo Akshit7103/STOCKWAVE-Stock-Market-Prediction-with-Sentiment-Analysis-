@@ -1,7 +1,3 @@
-Stock Market Predictor
-
-Description
-
 This project aims to predict stock market trends using various machine learning algorithms. It involves collecting real-time stock data, preprocessing it, training machine learning models, and visualizing the predictions. The project is built using Python and several popular libraries such as pandas, scikit-learn, and matplotlib.
 
 Features
